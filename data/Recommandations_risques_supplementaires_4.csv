@@ -1,0 +1,81 @@
+Catégorie de risque,Niveau de gravité,Recommandation
+Risque juridique,Très faible,Créer un modèle de rapport réglementaire unifié pour simplifier les soumissions (ex. : Incident1720699745608).
+Risque juridique,Très faible,Établir une procédure de double vérification pour les publications de cours de référence.
+Risque juridique,Très faible,Former les équipes à reconnaître les écarts réglementaires mineurs dès leur apparition.
+Risque juridique,Très faible,Mettre en place un suivi automatisé des échéances réglementaires via un logiciel de gestion.
+Risque juridique,Faible,Créer une base de données centralisée pour stocker les contrats liés aux livraisons de titres (ex. : Incident1720627710716).
+Risque juridique,Faible,Effectuer une revue trimestrielle des obligations contractuelles avec les partenaires.
+Risque juridique,Faible,Utiliser des outils de conformité pour valider automatiquement les rapports ERB BDF (ex. : Incident1720800156877).
+Risque juridique,Faible,Former les responsables à signaler les anomalies réglementaires dans les 24 heures.
+Risque juridique,Moyen,Implémenter un système de suivi des modifications réglementaires pour rester à jour.
+Risque juridique,Moyen,Organiser des ateliers avec les régulateurs pour clarifier les attentes.
+Risque juridique,Moyen,Créer des tableaux de bord pour visualiser les indicateurs de conformité clés.
+Risque juridique,Moyen,Effectuer des audits internes bimestriels sur les processus réglementaires sensibles.
+Risque juridique,Fort,Établir un protocole de gestion des défauts de livraison avec des délais de résolution stricts (ex. : Incident1720627710716).
+Risque juridique,Fort,Mettre en place une équipe de conformité dédiée pour les rapports critiques.
+Risque juridique,Fort,Utiliser des outils d’analyse prédictive pour anticiper les risques juridiques.
+Risque juridique,Fort,Effectuer des revues juridiques externes semestrielles pour les processus à haut risque.
+Risque juridique,Très fort,Créer un comité de crise pour gérer les incidents réglementaires majeurs.
+Risque juridique,Très fort,Implémenter un système de traçabilité des données réglementaires sur une blockchain sécurisée.
+Risque juridique,Très fort,Engager des avocats spécialisés pour superviser les incidents critiques.
+Risque juridique,Très fort,Mettre en place un plan de communication de crise pour les violations réglementaires.
+Risque de fraude,Très faible,Créer une liste blanche pour les expéditeurs d’e-mails autorisés (ex. : Incident113).
+Risque de fraude,Très faible,Former les employés à vérifier les adresses e-mail avant de cliquer sur des liens.
+Risque de fraude,Très faible,Effectuer des scans réguliers des postes de travail pour détecter les extensions malveillantes.
+Risque de fraude,Très faible,Publier des mises à jour mensuelles sur les nouvelles formes de cyberattaques.
+Risque de fraude,Faible,Restreindre les connexions USB sur les postes de travail pour éviter les malwares (ex. : Incident115).
+Risque de fraude,Faible,Configurer des alertes pour les modifications non autorisées des comptes utilisateurs.
+Risque de fraude,Faible,Implémenter un système de filtrage des pièces jointes suspectes dans les e-mails.
+Risque de fraude,Faible,Former les équipes à identifier les tentatives de fraude par ingénierie sociale.
+Risque de fraude,Moyen,Utiliser un système de détection des anomalies réseau pour protéger SWIFT (ex. : Incident1720707242053).
+Risque de fraude,Moyen,Effectuer des audits de sécurité mensuels sur les applications critiques.
+Risque de fraude,Moyen,Restreindre l’accès aux bases de données sensibles via des VLAN dédiés.
+Risque de fraude,Moyen,Organiser des formations trimestrielles sur les menaces cybernétiques émergentes.
+Risque de fraude,Fort,Implémenter un système de gestion des identités pour contrôler les accès (ex. : Incident113).
+Risque de fraude,Fort,Effectuer des tests de pénétration semestriels pour identifier les failles.
+Risque de fraude,Fort,Utiliser des outils de détection des malwares basés sur橙
+Risque de fraude,Fort,Mettre en place un protocole de quarantaine pour les fichiers suspects.
+Risque de fraude,Très fort,Créer une unité de réponse rapide aux cyberattaques disponible 24/7.
+Risque de fraude,Très fort,Implémenter un système de chiffrement des données au transit et au repos.
+Risque de fraude,Très fort,Effectuer des audits de cybersécurité externes trimestriels.
+Risque de fraude,Très fort,Utiliser des technologies de détection comportementale pour identifier les menaces avancées.
+Risque de sécurité des personnes et des biens,Très faible,Installer des étiquettes lumineuses sur les dispositifs de fermeture pour une meilleure visibilité (ex. : Incident1734593931156).
+Risque de sécurité des personnes et des biens,Très faible,Créer une checklist quotidienne pour l’inspection des portes et serrures.
+Risque de sécurité des personnes et des biens,Très faible,Former le personnel à signaler immédiatement tout équipement défectueux.
+Risque de sécurité des personnes et des biens,Très faible,Publier des rappels réguliers sur l’importance de la sécurité physique.
+Risque de sécurité des personnes et des biens,Faible,Installer des capteurs d’alerte sur les portes hydrauliques pour signaler les pannes (ex. : Incident1734680803520).
+Risque de sécurité des personnes et des biens,Faible,Créer un manuel de maintenance pour les systèmes de sécurité comme le SAS (ex. : Incident1720635210217).
+Risque de sécurité des personnes et des biens,Faible,Effectuer des contrôles bimensuels des équipements de sécurité physique.
+Risque de sécurité des personnes et des biens,Faible,Former les agents de maintenance aux procédures de dépannage rapide.
+Risque de sécurité des personnes et des biens,Moyen,Installer des systèmes de verrouillage de secours pour les zones critiques.
+Risque de sécurité des personnes et des biens,Moyen,Effectuer des inspections trimestrielles des systèmes de contrôle d’accès.
+Risque de sécurité des personnes et des biens,Moyen,Utiliser des capteurs IoT pour surveiller l’état des équipements physiques.
+Risque de sécurité des personnes et des biens,Moyen,Former les équipes de sécurité à la gestion des incidents physiques.
+Risque de sécurité des personnes et des biens,Fort,Implémenter des systèmes de contrôle d’accès à double authentification (ex. : Incident1720635210217).
+Risque de sécurité des personnes et des biens,Fort,Mettre en place un calendrier de maintenance prioritaire pour les systèmes critiques.
+Risque de sécurité des personnes et des biens,Fort,Utiliser un système centralisé de gestion des alertes physiques.
+Risque de sécurité des personnes et des biens,Fort,Former une équipe de réponse aux incidents physiques pour les cas graves.
+Risque de sécurité des personnes et des biens,Très fort,Installer des systèmes de sécurité physique redondants pour les zones à haut risque.
+Risque de sécurité des personnes et des biens,Très fort,Créer un centre de contrôle des infrastructures physiques opérationnel 24/7.
+Risque de sécurité des personnes et des biens,Très fort,Utiliser des technologies de surveillance en temps réel pour les équipements critiques.
+Risque de sécurité des personnes et des biens,Très fort,Effectuer des audits externes semestriels des systèmes de sécurité physique.
+Risque du système d'information,Très faible,Créer un journal des incidents logiciels mineurs pour un suivi proactif (ex. : Incident1720706752268).
+Risque du système d'information,Très faible,Publier des guides de dépannage rapide pour les applications comme SWIFT.
+Risque du système d'information,Très faible,Effectuer des vérifications hebdomadaires des performances des applications.
+Risque du système d'information,Très faible,Former les utilisateurs à identifier les erreurs logicielles courantes.
+Risque du système d'information,Faible,Configurer des alertes automatiques pour les erreurs mineures des serveurs (ex. : Incident1720707242053).
+Risque du système d'information,Faible,Créer un portail interne pour signaler les problèmes informatiques.
+Risque du système d'information,Faible,Effectuer des mises à jour logicielles semestrielles pour les applications secondaires.
+Risque du système d'information,Faible,Documenter les procédures de maintenance des serveurs pour les incidents mineurs.
+Risque du système d'information,Moyen,Implémenter un système de surveillance des performances en temps réel (ex. : Incident1720713321350).
+Risque du système d'information,Moyen,Effectuer des tests de charge semestriels pour les applications critiques.
+Risque du système d'information,Moyen,Utiliser des environnements sandbox pour tester les mises à jour logicielles.
+Risque du système d'information,Moyen,Former les équipes IT à la gestion des incidents complexes.
+Risque du système d'information,Fort,Créer un plan de reprise après sinistre pour chaque application critique.
+Risque du système d'information,Fort,Utiliser des outils d’analyse des performances pour anticiper les pannes.
+Risque du système d'information,Fort,Effectuer des audits internes mensuels des systèmes informatiques.
+Risque du système d'information,Fort,Mettre à jour les protocoles de sécurité pour les serveurs critiques.
+Risque du système d'information,Très fort,Créer un centre de données redondant pour assurer la continuité des opérations.
+Risque du système d'information,Très fort,Implémenter des solutions de cybersécurité basées sur l’IA pour détecter les anomalies.
+Risque du système d'information,Très fort,Effectuer des tests de résilience trimestriels pour simuler les pannes majeures.
+Risque du système d'information,Très fort,Mettre en place un système de sauvegarde cloud pour les données critiques.
