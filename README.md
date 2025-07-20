@@ -1,8 +1,8 @@
 # beac-risk-management
 Système Expert BEAC - Gestion des Risques Opérationnels et Assistant DEMARIS avec IA
- 🏦 BEAC - Système Expert Intelligent
+ 🏦 BEAC - Système Expert
 
-Plateforme intégrée de gestion des risques opérationnels développée pour la DGEFRI-DOF (Direction Générale des Études, de la Formation et de la Recherche Industrielle) de la Banque des États de l'Afrique Centrale.
+Plateforme intégrée de gestion des risques opérationnels développée pour la DGEFRI-DOF (Direction des Opérations financières) de la Banque des États de l'Afrique Centrale.
 
 ## 🎯 Qu'est-ce que cette application fait ?
 
@@ -47,7 +47,7 @@ votre-projet/
     └── photo_beac_1.jpg
 📊 Format des Données Excel
 Fichier data/base_incidents.xlsx (Feuille: "Incidents_DOF_augmente")
-ColonneFormatExempleCodeTexte"Incident20241220143052"EntitéTexte"DGEFRI-DOF : Comptabilité"GravitéTexte"Fort", "Moyen", "Faible", "Très fort", "Très faible"Cout_total_estime(en 10 000 FCFA)Nombre25 (= 250,000 FCFA)Date de survenanceDate"15-03-2024" (format DD-MM-YYYY)Catégorie_RisqueTexte"RSI", "RF", "RH", "RC"Temps_HNombre2.5 (heures)
+ColonneFormatExempleCodeTexte"Incident20241220143052"EntitéTexte"DGEFRI-DOF : Comptabilité"GravitéTexte"Fort", "Moyen", "Faible", "Très fort", "Très faible" Cout_total_estime(en 10 000 FCFA)Nombre25 (= 250,000 FCFA)Date de survenanceDate"15-03-2024" (format DD-MM-YYYY)Catégorie_RisqueTexte"RSI", "RF", "RH", "RC", "RSP" Temps_HNombre2.5 (heures)
 Services DGEFRI-DOF supportés :
 
 Comptabilité
