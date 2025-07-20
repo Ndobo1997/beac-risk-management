@@ -113,7 +113,7 @@ def show_home_page():
     """, unsafe_allow_html=True)
     
     # Tentative de chargement de l'image BEAC
-    image_path = r"images\photo_beac_1.jpg"  # Chemin relatif plus simple
+    image_path = r"images/photo_beac_1.jpg"  # Chemin relatif plus simple
     
     if os.path.exists(image_path):
         # Affichage de l'image avec description superposée
